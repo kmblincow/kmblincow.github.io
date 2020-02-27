@@ -21,15 +21,15 @@ description: PhD Candidate at Scripps Institution of Oceanography interested in 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Thesis Projects:
-    - Giant Sea Bass Tagging: "gsbtagging"
-    - Giant Sea Bass Stable Isotopes: "gsbisotopes"
-    - CPFV Species Landings Interactions: "cpfvsccm"
-    - Global Fisheries Market Networks: "holidayfish"
-   Other Activities:
-    - SIO R Users Group: "rusers"
-    - Outreach: "outreach"
-   CV: "https://kmblincow.github.io/pdf/KaylaBlincow_CV.pdf"
+  #Thesis Projects:
+    #- Giant Sea Bass Tagging: "gsbtagging"
+    #- Giant Sea Bass Stable Isotopes: "gsbisotopes"
+    #- CPFV Species Landings Interactions: "cpfvsccm"
+    #- Global Fisheries Market Networks: "holidayfish"
+   #Other Activities:
+    #- SIO R Users Group: "rusers"
+    #- Outreach: "outreach"
+   #CV: "https://kmblincow.github.io/pdf/KaylaBlincow_CV.pdf"
    
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar

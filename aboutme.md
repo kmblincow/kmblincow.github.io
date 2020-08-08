@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About me
+bigimg:
+  - "/img/big-img/DiverseDivers.jpg": "Diving off SIO Pier"
 ---
 
 Thank you for visiting my website! I assume you are here, because you want to know a little bit more about me! 

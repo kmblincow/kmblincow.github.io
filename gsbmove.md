@@ -2,7 +2,7 @@
 layout: page
 title: Giant Sea Bass Movement Ecology
 bigimg:
-  - "/img/big-img/IMG_3247.JPG"
+  - "/img/big-img/IMG_3247.JPG" : "Tagging a Giant Sea Bass"
 ---
 
 Giant Sea Bass (*Stereolepis gigas*) are the largest bony fish in the kelp forests of Southern California. After suffering severe population declines due to overfishing, they were protected, and are now showing signs of recovery. La Jolla is home to at least one historic Giant Sea Bass spawning site and a vibrant kelp forest community, parts of which are encompassed by two separate marine protected areas (MPAs). This makes La Jolla the ideal place to conduct a study of the spatial ecology of Giant Sea Bass. The goal of this study is to track Giant Sea Bass in La Jolla to answer the following questions: “Where do local GSBs spend their time?”, “How far do they travel?”, “To what extent do existing MPAs overlap with their ranges?”, and “Is it possible to identify a spawning aggregation in La Jolla?”. 

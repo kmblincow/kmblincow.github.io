@@ -2,7 +2,7 @@
 layout: page
 title: Giant Sea Bass Trophic Ecology
 bigimg: 
-  - "/img/big-img/IMG_3354.JPG"
+  - "/img/big-img/IMG_3354.JPG": "Stranded Giant Sea Bass Gut Contents"
 ---
 Listed as Critically Endangered by the IUCN due to overfishing in the first half of the 20th century, Giant Sea Bass (*Stereolepis gigas*) appear to be showing signs of recovery. Giant Sea Bass are high-level generalist predators, and are generally thought to forage in the kelp forest. Serving in this role, the return of Giant Sea Bass is likely to influence kelp forest trophic dynamics. To begin to understand these implications, we first need a deeper understanding of the trophic ecology of Giant Sea Bass. As part of an ongoing study we are leveraging stable isotope and gut content analyses to contribute to this understanding.
 

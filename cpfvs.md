@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Fine-scale egg dispersal
+title: Recreational Fishery Species Interactions in a Warming Ocean
 bigimg:
   - "/img/big-img/Networks_SST.png"
 ---
-Climate change is altering fundamental characteristics of marine systems, such as oxygen and temperature. Although such changes are likely to impact fisheries, the specific changes they bring about are less clear. Fisheries constitute extremely complex social-ecological systems, which makes predicting their responses to climate change difficult. Gaining insight into the underlying dynamics of these systems can help us understand how warming oceans are likely to impact them. Using landings data from a multispecies recreational fishery in southern California, we were able to show that it is possible to construct networks of causal interactions between species landings which can help characterize this fishery system’s response to regional warming.
+Climate change is altering fundamental characteristics of marine systems, such as oxygen concentrations and sea surface temperature. Although these shifts are likely to impact fisheries, the specific changes they bring about are less clear. Fisheries constitute extremely complex social-ecological systems, which makes predicting their responses to climate change difficult. Gaining insight into the underlying dynamics of these systems can help us understand how warming oceans are likely to impact them. Using landings data from a multispecies recreational fishery in southern California, we were able to show that it is possible to construct networks of causal interactions between species landings which can help characterize this fishery system’s response to regional warming.
 
 **Methods**
 

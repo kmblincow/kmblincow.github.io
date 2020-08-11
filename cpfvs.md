@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recreational Fishery Species Interactions in a Warming Ocean
+title: Fishery Species Interactions in a Warming Ocean
 bigimg:
   - "/img/big-img/Networks_SST.png"
 ---

@@ -9,7 +9,9 @@ My motivation for engaging in outreach is two-fold. First, I am deeply invested 
 
 **Outreach Activities**
 1.	[Letters to a Pre-scientist](https://www.prescientist.org/)
-2.	Speaking to local schools
-3.	Sea Camp lecturer
-4.	AFS Hutton Scholar Pen Pal Program
+2.	[Skype a Scientist](https://www.skypeascientist.com/)
+3.  [Científico Latino Graduate Student Mentorship Initiative](https://www.cientificolatino.com/gsmi)
+3.  Speaking to local schools
+4.	Sea Camp lecturer
+5.	AFS Hutton Scholar Pen Pal Program
 

@@ -20,7 +20,7 @@ Given the context of our multispecies fishery, we assert that the increased conn
 
 **Next Steps**
 
-This work is currently being prepared for publication.
+This work has been submitted for publication.
 
   
   

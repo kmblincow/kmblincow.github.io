@@ -11,4 +11,4 @@ To address these questions I am tagging Giant Sea Bass caught in La Jolla with s
 
 **Next Steps**
 
-This is an ongoing study, and I am still in the data collection phase. I expect to complete this analysis in the summer of 2021.
+This work is currently being prepared for publication.

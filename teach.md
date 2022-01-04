@@ -4,7 +4,7 @@ title: Teaching and Mentorship
 bigimg:
   - "/img/big-img/IMG_4779.JPG": "Leading a Virtual Lecture During COVID-19"
 ---
-Throughout my PhD, I have actively sought opportunities to guest lecture or serve as a teaching assistant. My experiences teaching have given me a deep respect for the time and effort required to be an engaging lecturer at the university level. I enjoy the work, because it provides an opportunity to stretch my creative muscles to come up with new ways to keep students interested and engaged in material that can sometimes be dry. In addition to teaching, I have mentored at least one student every year since I completed my first year. I love building relationships with and providing support to students. In my experience, no two mentor-mentee relationships are the same, and I enjoy the process of learning about each student as an individual and adapting to their specific needs when it comes to mentorship. 
+Throughout my PhD, I =actively sought opportunities to guest lecture or serve as a teaching assistant. My experiences teaching have given me a deep respect for the time and effort required to be an engaging lecturer at the university level. I enjoy the work, because it provides an opportunity to stretch my creative muscles to come up with new ways to keep students interested and engaged in material that can sometimes be dry. In addition to teaching, I have mentored at least one student every year since I completed my first year. I love building relationships with and providing support to students. In my experience, no two mentor-mentee relationships are the same, and I enjoy the process of learning about each student as an individual and adapting to their specific needs when it comes to mentorship. 
 
 **TA Positions**
 
@@ -18,11 +18,16 @@ Throughout my PhD, I have actively sought opportunities to guest lecture or serv
 
 **Mentorship**
 
-* Masters of Advanced Studies-Marine Biodiversity and Conservaion
+* UVI Masters of Marine and Environmental Science
+    * Andrew McGregor
+    * Taylor Brunson
+    * Jenna Cheramie
+* SIO Masters of Advanced Studies-Marine Biodiversity and Conservaion
     * Meghan Emidy 
     * Ross Cooper
     * Emi Koch
     * Lauren Martin
+    * Tyler Loughran
 *	UCSD Undergraduates
     * Paige Angne
 * SIO Peer PhD Mentor Program

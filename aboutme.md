@@ -4,7 +4,7 @@ bigimg:
   - "/img/big-img/DiverseDivers.jpg": "Diving off SIO Pier"
 ---
 
-Thank you for visiting my website! I assume you are here, because you want to know a little bit more about me! 
+Thank you for visiting my website! I assume you are here because you want to know a little bit more about me! 
 
 I am an ecologist. I ask and answer questions about why the natural world behaves the way it does. In my effort to do this, I am especially interested in leveraging diverse statistical tools. While completing a professional Masters degree in Conservation Biology, I unearthed an enthusiasm for quantitative analysis and coding in R. I’ve devoted much of my time since the discovery of this passion to cultivating my quantitative and coding skillsets. It is this passion which led me to pursue my PhD under Dr. Brice Semmens at Scripps Institution of Oceanography. In addition to my quantitative pursuits, I enjoy getting into the field, and spent a good portion of my PhD driving boats, catching fish, and diving in search of acoustic receivers in the La Jolla kelp forest. 
 

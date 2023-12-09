@@ -11,7 +11,29 @@ bigimg:
   - "/img/big-img/IMG_2768.JPG" : "La Jolla Dive Transit"
 ---
 
-I am a Postdoctoral Researcher at the University of the Virgin Islands on St. Thomas. I completed my PhD in the <a href = "https://semmenslab.org">Semmens Lab</a> at Scripps Institution of Oceanography studying fisheries ecology. As an ecologist, I am somewhat contradictory in that I am devoted to developing my skills in the field and in quantitative analysis. As a result, much of my research combines quantitative tools with field-based methods to ask and answer applied ecology questions. In addition to my doctorate, I hold a professional Master’s degree in Conservation Biology from the University of Queensland which covered both terrestrial and marine systems. While I am currently busy working on acoustic telemetry projects in the Virgin Islands, I am always looking for new opportunities.
+<div class="image">
+        <img src=""/img/big-img/IMG_0604.JPG">
+      </div>
+      <div class="text">
+        <h1>I am an Assistant Professor at the University of the Virgin Islands on St. Thomas. My research interests lie in fisheries, movement ecology, and applied conservation. Much of my work combines quantitative tools with field-based methods to ask and answer applied ecology questions. </h1>
+      </div>
+
+.container {
+ display: grid;
+ align-items: center; 
+ grid-template-columns: 1fr 1fr 1fr;
+ column-gap: 5px;
+}
+
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+
+.text {
+  font-size: 70px;
+}
+
 
 <div class="posts-list">
   {% for post in paginator.posts %}

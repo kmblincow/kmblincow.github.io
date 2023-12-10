@@ -2,7 +2,7 @@
 layout: page
 title: Current Students
 bigimg:
-  - "/img/big-img/IMG_9483.JPG" : "St. Thomas Sunset"
+  - "/img/big-img/IMG_9483.jpeg" : "St. Thomas Sunset"
 ---
 
 I currently advise a limited number of graduate students in UVI's Master of Marine and Environmental Science (MMES) program. I also serve as a committee member for a number of other students in the program.   

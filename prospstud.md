@@ -5,7 +5,7 @@ bigimg:
   - "/img/big-img/IMG_7364.jpeg" : "Cinnamon Bay, St. John"
 ---
 **Interested in Joining My Lab?**  
-I am in the process of building my lab at UVI, and am open to hearing from prospective directed indepedent research undergraduate and graduate students*. My vision for my lab is that
+I am in the process of building my lab at UVI, and am open to hearing from prospective undergraduate and graduate students*. My vision for my lab is that
 it will be an inclusive environment that fosters creative thinking, encourages the use of quantitative approaches in 
 marine ecology research, and values work-life balance. As a mentor, I am committed to supporting my students in achieving their goals, whatever they may be.
 In turn, I expect my students to work hard, be open to learning new things, and be respectful of the community we are building.

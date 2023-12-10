@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching and Mentorship
+title: Teaching
 bigimg:
   - "/img/big-img/courses.png": "Student Feedback On My Teaching Style"
 ---

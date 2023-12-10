@@ -22,16 +22,15 @@ description: Assistant Professor and Marine Biologist at UVI.
 navbar-links:
   Research: 
   - Movement Ecology at UVI: "uvi"
-  - Giant Sea Bass: "gsbtrophic"
+  - Giant Sea Bass: "gsb"
   - Fishery Species Interactions in a Warming Ocean: "cpfvs"
   - Global Seafood Trade: "seafood"
-  Teaching:
+  Teaching & Outreach:
   - Graduate Courses: "grad"
   - Undergraduate Courses: "ungrad"
   - R Users Group: "rusers"
-  Community Involvement:
-  - Mentorship: "teach"
   - Outreach: "outreach"
+  Students & Mentorship: "teach"
   CV: "https://kmblincow.github.io/WebsiteCV.pdf"
   About Me: "aboutme"
 
@@ -52,8 +51,8 @@ navbar-col: "#446B74"
 navbar-text-col: "#7caecf"
 navbar-children-col: "#446B74"
 page-col: "#FFFFFF"
-link-col: "#008AFF"
-hover-col: "#EBE4F5"
+link-col: "#7caecf"
+hover-col: "#53095E"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"

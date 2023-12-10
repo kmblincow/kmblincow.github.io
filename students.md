@@ -8,7 +8,7 @@ bigimg:
 I currently advise a limited number of graduate students in UVI's Master of Marine and Environmental Science (MMES) program. I also serve as a committee member for a number of other students in the program.   
 
 
-<img align="left" width="250" src="/img/big-img/stef.jpeg">
+<img align="left" width="250" padding-right="10" src="/img/big-img/stef.jpeg">
 
 **Stefanie Maxin**  
 

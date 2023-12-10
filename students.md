@@ -15,6 +15,9 @@ I currently advise a limited number of graduate students in UVI's Master of Mari
 Stefanie is originally from Texas where she graduated with a degree in Marine and Freshwater Science from the University of Texas in Austin. Her master’s research focuses on utilizing passive acoustic data to inform understanding of fish ecology. In particular, she is quantifying Nassau grouper vocalizations at a local spawning aggregation to better understand their ongoing recovery. She is also working to identify passive sounds produced by yellowtail parrotfish during their spawning activities to serve as a measure of spawning activity.    
 
 
+
+
+      
 <img align="left" width="200" src="/img/big-img/darian.jpeg">
 
 **Darian Braddy**    

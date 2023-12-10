@@ -2,14 +2,20 @@
 layout: page
 title: Teaching and Mentorship
 bigimg:
-  - "/img/big-img/IMG_4779.JPG": "Leading a Virtual Lecture During COVID-19"
+  - "/img/big-img/courses.png": "Student Feedback On My Teaching Style"
 ---
-Throughout my PhD, I actively sought opportunities to guest lecture or serve as a teaching assistant. Now as a postdoctoral researcher, I am involved in teaching statistics to Master's level students. My experiences teaching have given me a deep respect for the time and effort required to be an engaging lecturer at the university level. I enjoy the work, because it provides an opportunity to stretch my creative muscles to come up with new ways to keep students interested and engaged in material that can sometimes be dry. In addition to teaching, I have also sought opportunities to mentor students one on one. I love building relationships with and providing support to students. In my experience, no two mentor-mentee relationships are the same, and I enjoy the process of learning about each student as an individual and adapting to their specific needs.
+As an Assistant Professor in the College of Science and Mathematics at the University of the Virgin Islands, my main responsibility is teaching courses. My teaching style is marked by enthusiasm, celebrating growth mindsets, fostering critical thinking, and embracing the importance of imparting practical knowledge. I also frequently use memes in my lectures to lighten the mood.    
 
-**Teaching Positions**
-* MES 504 Research Methodologies and Tools II (UVI)      
+**Graduate Courses**
+* MES 503 Research Methodologies and Tools I       
+* MES 504 Research Methodologies and Tools II       
+  
+**Undergraduate Courses**
+* CSC/SCI 230 Data Science I       
+* SCI 100 The Natural World: The Caribbean   
+* MSC 239 Oceanography   
 
-**TA Positions**
+**Former Teaching Positions**
 
 * BIEB 135 Aquatic Ecology Lab (SIO)
 * SIOB 272 Advanced Statistical Techniques (SIO)
@@ -19,22 +25,5 @@ Throughout my PhD, I actively sought opportunities to guest lecture or serve as 
 * SIOB 272 Advanced Statistical Techniques: Bootstrapping
 * SIO 139 Current Research Methods in Marine Biology: Why Quantitative Scientists are Marine Biology’s Unicorns, and How You Can Become a Unicorn Too.
 
-**Mentorship**
 
-* UVI Masters of Marine and Environmental Science
-    * Andrew McGregor
-    * Taylor Brunson
-    * Jenna Cheramie
-* SIO Masters of Advanced Studies-Marine Biodiversity and Conservaion
-    * Meghan Emidy 
-    * Ross Cooper
-    * Emi Koch
-    * Lauren Martin
-    * Tyler Loughran
-*	UCSD Undergraduates
-    * Paige Angne
-* SIO Peer PhD Mentor Program
-    * Kara Wiggin
-* SIO SURF-REU Program 
-    * Youssef Doss
 

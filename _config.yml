@@ -26,11 +26,12 @@ navbar-links:
   - Fishery Species Interactions in a Warming Ocean: "cpfvs"
   - Global Seafood Trade: "seafood"
   Teaching & Outreach:
-  - Graduate Courses: "grad"
-  - Undergraduate Courses: "ungrad"
+  - Courses: "teach"
   - R Users Group: "rusers"
   - Outreach: "outreach"
-  Students & Mentorship: "teach"
+  Students & Mentorship: 
+  - Current Students: "students"
+  - Prospecitve Students: "prospstud"
   CV: "https://kmblincow.github.io/WebsiteCV.pdf"
   About Me: "aboutme"
 

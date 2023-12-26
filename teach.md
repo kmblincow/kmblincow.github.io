@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 bigimg:
-  - /img/big-img/IMG_0500c.jpg: "Lecture Auditorium in Lisbon Museum of Natural History"
+  - /img/big-img/courses.png: "Student Feedback On My Teaching Style"
 ---
 As an Assistant Professor in the College of Science and Mathematics at the University of the Virgin Islands, my main responsibility is teaching courses. My teaching style is marked by enthusiasm, celebrating growth mindsets, fostering critical thinking, and embracing the importance of imparting practical knowledge. I also frequently use memes in my lectures to lighten the mood.    
 

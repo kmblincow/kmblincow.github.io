@@ -1,7 +1,7 @@
 ---
 layout: page
 bigimg:
-  - "/img/big-img/DiverseDivers.jpg": "Diving off SIO Pier"
+  - "/img/big-img/IMG_0506.JPG": "Cheesing next to specimens at the Lisbon Museum of Natural History"
 ---
 
 Thank you for visiting my website! I assume you are here because you want to know a little bit more about me! 

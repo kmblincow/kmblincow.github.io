@@ -16,3 +16,4 @@ You can read the full study [here](https://www.int-res.com/articles/meps_oa/m695
 La Jolla, CA is home to at least one historic Giant Sea Bass spawning site and a vibrant kelp forest community, parts of which are encompassed by two separate marine protected areas (MPAs) and highly trafficked fishing grounds. We used acoustic telemetry to analyze the movements of Giant Sea Bass in La Jolla as they relate to spatial protections, seasonal spawning activity, and connectivity to other regional receiver arrays.
 
 You can read the full study [here](https://peerj.com/articles/16551/). 
+Check out the PeerJ Spotlight Blog Post on this study [here](https://peerj.com/blog/post/115284888697/article-spotlight-spatial-ecology-of-the-giant-sea-bass-stereolepis-gigas-in-a-southern-california-kelp-forest-as-determined-by-acoustic-telemetry/)

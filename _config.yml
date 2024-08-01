@@ -34,8 +34,7 @@ navbar-links:
   - Prospective Students: "prospstud"
   CV: "https://kmblincow.github.io/WebsiteCV.pdf"
   About Me: "aboutme"
-  Data Science 1: 
-  - Week 1 Coding Exercise: "DSWeek1"
+
 
    
 # Image to show in the navigation bar - image must be a square (width = height)

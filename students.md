@@ -16,8 +16,3 @@ Stefanie is originally from Texas where she graduated with a degree in Marine an
 <br clear="left"/>
         
       
-<img style="padding: 10px" align="left" width="300" src="/img/big-img/darian.jpeg">
-
-**Darian Braddy**    
-Darian is originally from Savannah, GA, where she received her B.S. in Marine Sciences and a Data Analytics certificate at Savannah State University. Her master’s research focuses on characterizing the faunal communities associated with recent inundations of sargassum in the Caribbean. Using drone technology, oceanographic modelling, and *in* *situ* sampling techniques her work will be used to inform best practices for sargassum mitigation strategies in the US Virgin Islands.  
-

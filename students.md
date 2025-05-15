@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Current Students
+title: Current/Past Students
 bigimg:
   - "/img/big-img/IMG_9483.jpeg" : "St. Thomas Sunset"
 ---

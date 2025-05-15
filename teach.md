@@ -11,10 +11,16 @@ As an Assistant Professor in the College of Science and Mathematics at the Unive
 * MES 504 Research Methodologies and Tools II       
   
 **Undergraduate Courses**
-* CSC/SCI 230 Data Science I       
+* MBI 424 Marine Ecology
+* CSC/SCI 230 Data Science I
+* MSC 239 Oceanography    
 * SCI 100 The Natural World: The Caribbean   
-* MSC 239 Oceanography   
+* BIO 339 Vertebrate Structure
 
+**Workshops**  
+* Scientific Writing Workshop (Graduate Level; 3x 2-hour sessions)
+* Data Science in Health Sciences (Undergraduate Level; 3x 3-hour sessions)
+  
 **Former Teaching Positions**
 
 * BIEB 135 Aquatic Ecology Lab (SIO)
@@ -22,6 +28,7 @@ As an Assistant Professor in the College of Science and Mathematics at the Unive
 
 **Guest Lectures**
 
+* ENV 365 Topics in Environmental Science: Choosing the right analysis for your study/project
 * SIOB 272 Advanced Statistical Techniques: Bootstrapping
 * SIO 139 Current Research Methods in Marine Biology: Why Quantitative Scientists are Marine Biology’s Unicorns, and How You Can Become a Unicorn Too.
 

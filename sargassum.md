@@ -6,4 +6,10 @@ bigimg:
   - "/img/big-img/SargFish.JPG" : "Sargassum Fish"
 ---
 
-*Information Coming :)*
+*More Information Coming :)*  
+
+**USVI Mesophotic Lionfish**  
+
+**Biofouling Monitoring**  
+
+**Other Collaborations**

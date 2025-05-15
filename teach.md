@@ -13,6 +13,7 @@ As an Assistant Professor in the College of Science and Mathematics at the Unive
 **Undergraduate Courses**
 * MBI 424 Marine Ecology
 * CSC/SCI 230 Data Science I
+  * [Course Coding Exercises](https://kmblincow.github.io/UVIDataScience1_F24/)
 * MSC 239 Oceanography    
 * SCI 100 The Natural World: The Caribbean   
 * BIO 339 Vertebrate Structure

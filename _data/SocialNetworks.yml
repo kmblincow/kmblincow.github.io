@@ -7,7 +7,7 @@
 #   icon: Specify a valid fontawesome icon class
 
 bluesky:
-  name: "BlueSky"
+  name: "Bluesky"
   baseURL: "https://bsky.app/profile/"
   icon: "fa-bluesky"
 

@@ -8,7 +8,7 @@
 
 bluesky:
   name: "BlueSky"
-  baseURL: "https://www.bsky.app/"
+  baseURL: "https://bsky.app/profile/"
   icon: "fa-bluesky"
 
 facebook:

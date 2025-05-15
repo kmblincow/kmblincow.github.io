@@ -7,6 +7,11 @@
 #   icon: Specify a valid fontawesome icon class
 
 facebook:
+  name: "BlueSky"
+  baseURL: "https://www.bsky.app/"
+  icon: "fa-bluesky"
+
+facebook:
   name: "Facebook"
   baseURL: "https://www.facebook.com/"
   icon: "fa-facebook"

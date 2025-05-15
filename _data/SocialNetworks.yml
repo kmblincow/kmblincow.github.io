@@ -6,7 +6,7 @@
 #            site.social-network-links.<key>
 #   icon: Specify a valid fontawesome icon class
 
-facebook:
+bluesky:
   name: "BlueSky"
   baseURL: "https://www.bsky.app/"
   icon: "fa-bluesky"

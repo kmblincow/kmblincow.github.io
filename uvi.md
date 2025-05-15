@@ -15,5 +15,5 @@ This array has seen many iterations, including a fine-scale positioning arrangem
 Dr. Richard Nemeth has been using an acoustic receiver array in Reef Bay on St. John to track the movements of yellowtail parrotfish. This species forms daily spawning aggregations, providing an avenue to explore how environmental disturbances influence the reproductive behavior of a critical reef grazer. 
 
 **Other Acoustic Telemetry Work**
-"* Blincow et al. (2025) Characterizing changes in density, space use, and diel behavior of lionfish (*Pterois volitans*) on mesophotic coral reefs in the US Virgin Islands (*in press*)
+* Blincow et al. (2025) Characterizing changes in density, space use, and diel behavior of lionfish (*Pterois volitans*) on mesophotic coral reefs in the US Virgin Islands (*in press*)
 

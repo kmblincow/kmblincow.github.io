@@ -5,4 +5,10 @@ bigimg:
   - "/img/big-img/lionfish.JPG" : "Lionfish"
 ---
 
-*Information coming :)*
+*More Information Coming :)*
+
+**USVI Mesophotic Lionfish**  
+
+**Biofouling Monitoring**  
+
+**Other Collaborations**

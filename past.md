@@ -17,7 +17,7 @@ Giant Sea Bass are the largest bony fish in the kelp forests of southern Califor
 * [Blincow et al. (2023) - Spatial ecology of the Giant Sea Bass, *Stereolepis gigas*, in a southern California kelp forest as determined by acoustic telemetry](https://peerj.com/articles/16551/).   
   * Check out the PeerJ Spotlight Blog Post on this study [here](https://peerj.com/blog/post/115284888697/article-spotlight-spatial-ecology-of-the-giant-sea-bass-stereolepis-gigas-in-a-southern-california-kelp-forest-as-determined-by-acoustic-telemetry/).  
 
-**CPFV Landings**  
+**Multispecies Recreational Fisheries**  
 Fisheries constitute extremely complex social-ecological systems, which makes predicting their responses to climate change difficult. Using landings data from a multispecies recreational fishery in southern California, we constructed networks of causal interactions between species landings that demonstrate that such interactions within the fishery will likely become more complex with warming sea surface temperatures. 
 * [Blincow et al. (2021) - The effect of sea surface temperature on the structure and connectivity of species landings interaction networks in a multispecies recreational fishery](https://cdnsciencepub.com/doi/10.1139/cjfas-2021-0085).  
   

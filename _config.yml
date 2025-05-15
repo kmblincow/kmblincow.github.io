@@ -22,12 +22,12 @@ description: Assistant Professor and Marine Biologist at UVI.
 navbar-links:
   Research: 
   - Movement Ecology at UVI: "uvi"
-  - Giant Sea Bass: "gsb"
-  - Fishery Species Interactions in a Warming Ocean: "cpfvs"
-  - Global Seafood Trade: "seafood"
+  - Sargassum: "sargassum"
+  - Invasive Species: "invasives"
+  - Past Research: "past"
   Teaching & Outreach:
   - Courses: "teach"
-  - R Users Group: "rusers"
+  - R: "rusers"
   - Outreach: "outreach"
   Students & Mentorship: 
   - Current Students: "students"
@@ -82,7 +82,8 @@ social-network-links:
   email: "kaylamblincow@gmail.com"
 # facebook: deanattali
   github: kmblincow
-  twitter: the_cow_is_co
+  bluesky: the_cow_is_co
+# twitter: the_cow_is_co
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname

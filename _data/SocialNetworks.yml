@@ -9,7 +9,7 @@
 bluesky:
   name: "Bluesky"
   baseURL: "https://bsky.app/profile/"
-  icon: "fa-bluesky"
+  icon: <i class="fa-brands fa-bluesky"></i>
 
 facebook:
   name: "Facebook"

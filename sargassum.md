@@ -7,9 +7,3 @@ bigimg:
 ---
 
 *More Information Coming :)*  
-
-**USVI Mesophotic Lionfish**  
-
-**Biofouling Monitoring**  
-
-**Other Collaborations**

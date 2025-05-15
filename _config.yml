@@ -82,7 +82,7 @@ social-network-links:
   email: "kaylamblincow@gmail.com"
 # facebook: deanattali
   github: kmblincow
-  bluesky: the_cow_is_co
+  bluesky: the-cow-is-co.bsky.social
 # twitter: the_cow_is_co
 #  reddit: yourname
 #  linkedin: daattali
@@ -101,7 +101,8 @@ social-network-links:
 #share-links-active:
 # email: true
 #  github: true
-#  twitter: true
+#  bluesky: true
+#  twitter: false
 #  facebook: false
 #  linkedin: false
   

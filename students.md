@@ -8,7 +8,6 @@ bigimg:
 I advise students in UVI's Master of Marine and Environmental Science (MMES) program in multiple capacities, including as a main advisor, committee member, and providing general statistical expertise.   
 
 **Current Students**  
-  
 <img style="padding: 10px" align = "right" width = "250" src="/img/big-img/Goad.jpg">  
 
 *Miranda Goad*  

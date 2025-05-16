@@ -16,5 +16,5 @@ UVI has a burgeoning [data science program](https://www.uvi.edu/academics/progra
 
 **R & Data Science Workshops**  
 UVI has a number of programs geared towards building research capacity among undergraduates, including the [Emerging Caribbean Scientists program](https://www.uvi.edu/research/emerging-caribbean-scientists-programs/index.html). I have developed and regularly facilitate data science-focused short-form workshops for students involved in these programs to build their data literacy and visualization skills.  
-[Here] are materials from a Data Science workshop I led in 2024.
+[Here](https://liveuvi.sharepoint.com/sites/URISEDataScienceWorkshopF2024/SitePages/TrainingHome.aspx?spStartSource=spappbar) are materials from a Data Science workshop I led in 2024.
 

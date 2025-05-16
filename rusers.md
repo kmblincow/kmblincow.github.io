@@ -2,7 +2,7 @@
 layout: page
 title: Data Science & R
 bigimg:
-  - "/img/big-img/Capture.JPG": R Users Tidy Tuesday Code
+  - "/img/big-img/POKEMON_OG3Plot.JPG": R Users Tidy Tuesday Visualization
 ---  
 As a proud R nerd with a genuine love for data science, I make a point to incoporate both into most of my work, whether that's teaching or research.  
 

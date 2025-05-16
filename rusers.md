@@ -15,5 +15,6 @@ If you are at UVI and are interested in joining the R Users Group, please email 
 UVI has a burgeoning [data science program](https://www.uvi.edu/academics/programs/data-science.html), including options for a professional certificate and a minor in data science. I teach the program's Intro to Data Science course and develop R and Python learning modules that can be implemented across the program's curriculum.  
 
 **R & Data Science Workshops**  
-UVI has a number of programs geared towards building research capacity among undergraduates, including the [Emerging Caribbean Scientists program](https://www.uvi.edu/research/emerging-caribbean-scientists-programs/index.html). I have developed and regularly facilitate data science-focused short-form workshops for students involved in these programs to build their data literacy and visualization skills.
+UVI has a number of programs geared towards building research capacity among undergraduates, including the [Emerging Caribbean Scientists program](https://www.uvi.edu/research/emerging-caribbean-scientists-programs/index.html). I have developed and regularly facilitate data science-focused short-form workshops for students involved in these programs to build their data literacy and visualization skills.  
+[Here] are materials from a Data Science workshop I led in 2024.
 

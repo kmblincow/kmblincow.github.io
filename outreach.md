@@ -3,7 +3,7 @@ layout: page
 title: Outreach
 bigimg:
   - "/img/big-img/IMG_3536.JPG": "Scientist Pen Pal Letter"
-  - "/im/big-img/IMG_1987.JPG": "VI Kids Play Expo Booth"
+  - "/img/big-img/IMG_1987.JPG": "VI Kids Play Expo Booth"
 ---
 
 I engage in outreach and service in a professional and personal capacity. As someone who was fortunate to grow up in diverse and welcoming environments, building community is very important to me. From a science standpoint, my motivation for engaging in outreach stems from a desire to diversify and increase accessibility of STEM fields. In my personal life, I engage with the St. Thomas community through my activities with skateboarding organizations, including teaching local kids to skate, helping revitalize a public park, and mentoring several middle and high school students.
